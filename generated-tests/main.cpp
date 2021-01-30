@@ -1,12 +1,12 @@
 /**
  *  @file
- *  @copyright defined in eos/LICENSE
+ *  @copyright defined in pico/LICENSE
  */
 #include <cstdlib>
 
 #include <iostream>
 
-#include <eosio/chain/exceptions.hpp>
+#include <picoio/chain/exceptions.hpp>
 
 #include <fc/log/logger.hpp>
 
